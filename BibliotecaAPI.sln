@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaAPI", "BibliotecaAPI\BibliotecaAPI.csproj", "{D66EDA6C-1B61-436B-98DB-484E2ED7B7B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaAPITest", "BibliotecaAPITest\BibliotecaAPITest.csproj", "{531C68A9-0F5E-4D71-B553-33FCF8EB0A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66EDA6C-1B61-436B-98DB-484E2ED7B7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66EDA6C-1B61-436B-98DB-484E2ED7B7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66EDA6C-1B61-436B-98DB-484E2ED7B7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66EDA6C-1B61-436B-98DB-484E2ED7B7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531C68A9-0F5E-4D71-B553-33FCF8EB0A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531C68A9-0F5E-4D71-B553-33FCF8EB0A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531C68A9-0F5E-4D71-B553-33FCF8EB0A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531C68A9-0F5E-4D71-B553-33FCF8EB0A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F8CE59E-3206-4FDC-AE31-B69F0C30BBA4}
+	EndGlobalSection
+EndGlobal
