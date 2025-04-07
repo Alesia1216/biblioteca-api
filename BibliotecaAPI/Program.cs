@@ -14,7 +14,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 
-var builder = WebApplication.CreateBuilderABC(args);
+var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddOutputCache(opciones =>
 {
