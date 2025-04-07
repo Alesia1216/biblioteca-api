@@ -1,14 +1,14 @@
 name: Compilar y desplegar
 
 on:
-  workflow-dispatch:
+  workflow_dispatch:
   push:
     branches:
       - main
     paths:
       - 'BibliotecaAPI/**'
       - 'BibliotecaAPITests/**'
-      - '.github/workflows/compilar-y-desplegar.yml
+      - '.github/workflows/compilar-y-desplegar.yml'
 
 env:
   VERSION_DOTNET: '9' 
